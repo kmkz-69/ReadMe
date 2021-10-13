@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Laravel,Synfomy ,PHPCake, React,React native ,Flutter**
 
-- 👯 I’m looking to collaborate on [viipers](https://viipers.com/)
+- 👯 I am still working on new technologies.
 
 - 🤝 I’m looking for help with [Chatr](https://chatr.fr)
 
