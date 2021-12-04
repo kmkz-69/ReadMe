@@ -8,7 +8,7 @@
 
 - 👯 I am still working on new technologies.
 
-- 🤝 I’m looking for help with [Chatr](https://chatr.fr)
+- 🤝 I’m currently working on [Chatr](https://chatr.fr)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kmkz-69](https://github.com/kmkz-69)
 
